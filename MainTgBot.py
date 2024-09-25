@@ -4,7 +4,7 @@ import time
 from telebot import types
 import threading
 
-API_TOKEN = '7116851446:AAFOINODsji1LECenp_PpNjxM5DPQCKZfxQ'
+API_TOKEN = 'Token'
 bot = telebot.TeleBot(API_TOKEN)
 
 wallets = {}
